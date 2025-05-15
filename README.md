@@ -20,6 +20,8 @@
 La aplicación está completamente localizada en inglés y español.
 Tanto la interfaz como los textos dinámicos se adaptan al idioma configurado en el sistema del usuario.
 
+---
+
 ## 🔧 Tecnologías utilizadas
 
 - ✅ Swift 6
@@ -75,11 +77,15 @@ Esto permite:
 2. Abre el proyecto con Xcode 15 o superior.
 3. Ejecuta en un simulador o dispositivo real.
 
+---
+
 ## 🧪 Notas adicionales
 
 - Este proyecto fue desarrollado como una prueba técnica y no está pensado para producción.
 - La app persiste las ciudades guardadas localmente, pero los datos del clima se actualizan en cada apertura o al hacer pull-to-refresh.
 - La app está localizada en **inglés** y **español**.
+
+---
 
 ## 📄 Licencia
 
