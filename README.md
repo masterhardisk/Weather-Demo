@@ -16,6 +16,10 @@
 
 ---
 
+## 🌐 Localización
+La aplicación está completamente localizada en inglés y español.
+Tanto la interfaz como los textos dinámicos se adaptan al idioma configurado en el sistema del usuario.
+
 ## 🔧 Tecnologías utilizadas
 
 - ✅ Swift 6
@@ -75,11 +79,10 @@ Esto permite:
 
 - Este proyecto fue desarrollado como una prueba técnica y no está pensado para producción.
 - La app persiste las ciudades guardadas localmente, pero los datos del clima se actualizan en cada apertura o al hacer pull-to-refresh.
-- No se utiliza CoreLocation; la geolocalización es opcional y la búsqueda es manual por parte del usuario.
-- Las propiedades observables en los ViewModel están gestionadas con macros como @Observable.
+- La app está localizada en **inglés** y **español**.
 
 ## 📄 Licencia
 
 Uso exclusivo para fines de evaluación técnica.
 
-###### Desarrollado por Gerard Contador
+###### Desarrollado por [Gerard Contador](https://gerardcontador.com)
